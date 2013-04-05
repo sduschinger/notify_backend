@@ -1,0 +1,11 @@
+{
+        "name" : "notify_backend",
+        "version" : "0.1.0",
+        "main" : "notify_backend.js",
+        "scripts" : {
+            "start" : "node notify_backend"
+        },
+        "engines" : {
+            "node" : ">=0.6"
+        }
+    }
